@@ -53,7 +53,7 @@ h1{
 
 #foot{
     background-color: rgb(63, 63, 63);
-    position: absolute;
+    position: fixed;
     bottom: 0;
     color: #FFFFFF;
     width: 100%;
