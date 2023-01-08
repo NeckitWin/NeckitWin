@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6d472b6c-1f27-4587-8c19-03a62bfc2022" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +27,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/nikta/OneDrive/Desktop/сайты гит/NeckitWin",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -35,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673135211070</updated>
-      <workItem from="1673135228738" duration="191000" />
+      <workItem from="1673135228738" duration="987000" />
     </task>
     <servers />
   </component>
