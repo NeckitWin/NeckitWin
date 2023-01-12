@@ -66,3 +66,9 @@ video{
     object-fit: cover;
     z-index: -1;
 }
+
+#color-btn{
+    background-color: purple;
+    color: #FFFFFF;
+    font-size: 20px;
+}
