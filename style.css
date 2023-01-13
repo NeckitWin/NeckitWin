@@ -68,6 +68,8 @@ video{
     object-fit: cover;
     z-index: -1;
     initial-scale: 1.0;
+    position: fixed;
+    top:0;
 }
 
 #color-btn{
