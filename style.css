@@ -1,12 +1,10 @@
 #baner{
     background-image: url("img/banner.png");
     background-size: cover;
+    background-position: center;
     height: 300px;
     width: 70%;
     margin: auto;
-    text-shadow: 1px 1px 20px #FFFF;
-    border-radius: 50px;
-    box-shadow: 1px 1px 20px #FFFF;
 }
 
 main{
