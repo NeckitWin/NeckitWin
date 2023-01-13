@@ -1,5 +1,6 @@
 #baner{
     background-image: url("img/banner.png");
+    background-size: cover;
     height: 300px;
     width: 70%;
     margin: auto;
@@ -9,13 +10,14 @@
 }
 
 main{
-    background-color: #FFFFFF;
+    background-color: #000000;
     width: 70%;
     margin: auto;
     margin-top: 30px;
-    border: 3px solid rgb(29, 6, 51);
+    border: 7px solid rgb(51, 7, 87);
     border-radius: 20px;
     padding: 20px;
+    text-shadow: 1px 1px 20px rgb(255, 255, 255);
 }
 
 h1{
@@ -65,6 +67,7 @@ video{
     height: 100%;
     object-fit: cover;
     z-index: -1;
+    initial-scale: 1.0;
 }
 
 #color-btn{
