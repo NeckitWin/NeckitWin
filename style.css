@@ -60,6 +60,7 @@ h1{
     bottom: 0;
     color: #FFFFFF;
     width: 100%;
+    height: 40px;
     margin-left: calc(50% - 50vw);
     left: 0px;
     box-shadow: 1px 1px 20px #FFFF;
