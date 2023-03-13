@@ -1,4 +1,4 @@
-var button = document.getElementsByClassName("soc");
+var button = document.getElementsByClassName("link-div");
 
 for (var i = 0; i < button.length; i++) {
     button[i].addEventListener("mouseover", function() {

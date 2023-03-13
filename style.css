@@ -24,7 +24,7 @@ main{
     border: 7px solid rgb(51, 7, 87);
     border-radius: 20px;
     padding: 20px;
-    text-shadow: 1px 1px 20px rgb(255, 255, 255);
+    text-shadow: 2px 2px 20px rgb(255, 255, 255);
 }
 
 h1{
@@ -34,7 +34,14 @@ h1{
     text-shadow: 1px 1px 20px rgb(211, 148, 217);
 }
 
-#instagram,#telegram,#tiktok,#discord,#youtube,#twitch{
+.link-border{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+.link{
     text-align: center;
     background-color: #000000;
     color: #FFFFFF;
@@ -45,16 +52,13 @@ h1{
     padding: 25px;
     width: 120px;
     text-shadow: 1px 1px 20px rgb(255, 255, 255);
-
 }
 
-.soc{
+.link-div{
     display: inline-grid;
     grid-template-columns: auto auto auto;
     padding: 10px;
 }
-
-
 
 video{
     position: absolute;
@@ -74,4 +78,3 @@ video{
     color: #FFFFFF;
     font-size: 20px;
 }
-
