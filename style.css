@@ -23,15 +23,15 @@ main{
     margin-top: 30px;
     border: 7px solid rgb(51, 7, 87);
     border-radius: 20px;
+    box-shadow: 0px 0px 50px rgb(51, 7, 87);
     padding: 20px;
-    text-shadow: 2px 2px 20px rgb(255, 255, 255);
 }
 
 h1{
     font-size: 50px;
     color: rgb(175, 24, 175);
     text-align: center;
-    text-shadow: 1px 1px 20px rgb(211, 148, 217);
+    text-shadow: 0px 0px 30px rgb(211, 148, 217);
 }
 
 .link-border{
@@ -52,6 +52,7 @@ h1{
     padding: 25px;
     width: 120px;
     text-shadow: 1px 1px 20px rgb(255, 255, 255);
+    box-shadow: 0px 0px 20px rgb(51, 7, 87);
 }
 
 .link-div{
