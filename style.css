@@ -20,7 +20,7 @@ main{
     background-color: #000000;
     width: 70%;
     margin: auto;
-    margin-top: 30px;
+    margin-top: 10px;
     border: 7px solid rgb(51, 7, 87);
     border-radius: 20px;
     box-shadow: 0px 0px 50px rgb(51, 7, 87);
@@ -53,9 +53,10 @@ h1{
     border-radius: 20px;
     padding: 25px;
     width: 120px;
-    text-shadow: 1px 1px 20px rgb(255, 255, 255);
+    text-shadow: 0px 0px 20px rgb(255, 255, 255);
     box-shadow: 0px 0px 20px rgb(51, 7, 87);
     transition: transform 0.2s ease-in-out;
+    margin-bottom: 15px;
 }
 
 .link:hover{
@@ -79,4 +80,29 @@ video{
     background-color: purple;
     color: #FFFFFF;
     font-size: 20px;
+}
+
+.donate{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #000000;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 20px;
+    border: 10px solid rgb(255, 166, 0);
+    border-radius: 20px;
+    padding: 0 25px;
+    text-shadow: 0px 0px 20px rgb(255, 255, 255);
+    box-shadow: 0px 0px 20px rgb(255, 166, 0);
+    transition: transform 0.2s ease-in-out;
+    width: 100%;
+}
+
+.donate>img{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-self: flex-start;
 }
