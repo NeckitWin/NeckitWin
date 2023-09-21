@@ -2,7 +2,7 @@
 
 Hello! 👋 My name is Nikita, and I'm 20 years old. I'm a true enthusiast in the world of programming, and I'm devoted to the Java programming language like an artist to their masterpiece. ☕
 
-🏡 I was born in the cozy city of Kharkiv, Ukraine 🇺🇦, but now my life is intertwined with Poland 🇵🇱, where I am actively pursuing my programming journey.
+🏡 I was born in the cozy city of Kharkiv, Ukraine, but now my life is intertwined with Poland, where I am actively pursuing my programming journey.
 
 ## 💻 What I Do
 
