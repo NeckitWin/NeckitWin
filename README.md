@@ -1,5 +1,5 @@
 # 🚀 About Me
-Hi there! 👋 I'm Nikita, a 20-year-old passionate programmer hailing from Kharkiv, Ukraine, but currently calling Poland my home as I dive deep into the world of programming.
+Hello! 👋 I'm Nikita, 20 years old, and I'm a genuine programming enthusiast. My devotion to the Java programming language is akin to an artist's passion for their masterpiece. ☕
 
 ## 💻 What I Do
 I'm all about web development, where I merge code with art to create stunning digital experiences. My toolkit includes:
