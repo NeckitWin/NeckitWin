@@ -10,9 +10,6 @@ I am a Full-stack developer with a passion for programming, particularly my favo
 - 💡 JavaScript for interactivity.
 - 🚀 Node.js for server-side magic.
 
-## 🎶 My Passions
-Besides coding, I'm into music 🎵. I strum the guitar 🎸 and belt out tunes 🎤. The arts inspire me and bring balance to my life.
-
 ## 🌟 Connect With Me
 If you want to chat about projects, ideas, or just have a friendly conversation, reach out to me on:
 - [Discord](https://discord.gg/MJhkW7FeBQ)
