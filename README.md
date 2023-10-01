@@ -1,5 +1,5 @@
 # 🚀 About Me
-Hello! 👋 I'm Nikita, 20 years old, and I'm a genuine programming enthusiast. My devotion to the Java programming language is akin to an artist's passion for their masterpiece. ☕
+Hello! 👋 I'm Nikita. What if I told you that this is not real? All you see is code. ☕
 
 ## 💻 What I Do
 I'm all about web development, where I merge code with art to create stunning digital experiences. My toolkit includes:
