@@ -15,4 +15,4 @@ If you want to chat about projects, ideas, or just have a friendly conversation,
 - [Discord](https://discord.gg/MJhkW7FeBQ)
 - [Instagram](https://www.instagram.com/neckitwin/)
 
-What if you couldn't wake up? 🌟
+What if you couldn't wake up? 💫
