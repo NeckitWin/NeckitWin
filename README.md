@@ -17,4 +17,4 @@ Besides coding, I'm into music 🎵. I strum the guitar 🎸 and belt out tunes 
 If you want to chat about projects, ideas, or just have a friendly conversation, reach out to me on:
 - [Discord](https://discord.gg/MJhkW7FeBQ)
 - [Instagram](https://www.instagram.com/neckitwin/)
-- Let's embark on an exciting journey of innovation and creativity together! 🌟
+Let's embark on an exciting journey of innovation and creativity together! 🌟
