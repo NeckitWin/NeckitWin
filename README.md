@@ -1,5 +1,5 @@
 # 🚀 About Me
-Hello! 👋 I'm Nikita. What if I told you that this whole world is not real? All you see is code. ☕
+Hello! 👋 I'm Nikita. What if I told you that everything you see isn't real? It's all just code. ☕
 
 ## 💻 What I Do
 I'm all about web development, where I merge code with art to create stunning digital experiences. My toolkit includes:
