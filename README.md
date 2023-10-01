@@ -1,30 +1,21 @@
 # 🚀 About Me
-
-Hello! 👋 My name is Nikita, and I'm 20 years old. I'm a true enthusiast in the world of programming, and I'm devoted to the Java programming language like an artist to their masterpiece. ☕
-
-🏡 I was born in the cozy city of Kharkiv, Ukraine, but now my life is intertwined with Poland, where I am actively pursuing my programming journey.
+Hi there! 👋 I'm Nikita, a 20-year-old passionate programmer hailing from Kharkiv, Ukraine, but currently calling Poland my home as I dive deep into the world of programming.
 
 ## 💻 What I Do
+I'm all about web development, where I merge code with art to create stunning digital experiences. My toolkit includes:
 
-My passion lies in web development, where I create digital masterpieces with elements of art. My toolkit includes:
-
-- 🌐 HTML for shaping content structure.
-- 🎨 CSS for adding style and elegance.
-- 💡 JavaScript for crafting interactivity and dynamism.
-- 🚀 Node.js for bringing magic to the server.
-
-I believe that every website should not only be functional but also a true work of art.
+🌐 HTML for structuring content.
+🎨 CSS for style and elegance.
+💡 JavaScript for interactivity.
+🚀 Node.js for server-side magic.
+I believe every website should be a functional work of art.
 
 ## 🎶 My Passions
-
-Beyond coding, I pour my soul into music 🎵. I don't just listen; I play the guitar 🎸 and sing 🎤. The creativity of the arts inspires me and adds harmony to my life.
+Besides coding, I'm into music 🎵. I strum the guitar 🎸 and belt out tunes 🎤. The arts inspire me and bring balance to my life.
 
 ## 🌟 Connect With Me
+If you want to chat about projects, ideas, or just have a friendly conversation, reach out to me on:
 
-If you'd like to discuss exciting projects, share ideas, or simply have a chat, please don't hesitate to reach out to me. You can find me on the following platforms:
-
-- [Discord](https://discord.gg/N3DDszjavg)
-- [Instagram](https://www.instagram.com/neckitwin/)
-
-Let's embark on an exhilarating journey of innovation and creativity together! 🌟
-
+Discord
+Instagram
+Let's embark on an exciting journey of innovation and creativity together! 🌟
