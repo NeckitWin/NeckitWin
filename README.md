@@ -12,7 +12,6 @@ I am a Full-stack developer with a passion for programming, particularly my favo
 
 ## 🌟 Connect With Me
 If you want to chat about projects, ideas, or just have a friendly conversation, reach out to me on:
-- [Discord](https://discord.gg/MJhkW7FeBQ)
-- [Instagram](https://www.instagram.com/neckitwin/)
+- [My links](https://neckitwin.github.io)
 
 What if you couldn't wake up? 💫
