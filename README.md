@@ -1,17 +1,1 @@
-# 🚀 About Me
-Hello! 👋 I'm Nikita. What if I told you that everything you see isn't real? It's all just code. ☕
-
-### 💻 What I Do
-I am a Full-stack developer with a passion for programming, particularly my favorite language, Java. I also specialize in web development, utilizing the following languages:
-
-- ☕ Java, my beloved programming language.
-- 🌐 HTML for content structuring.
-- 🎨 CSS for style and elegance.
-- 💡 JavaScript for interactivity.
-- 🚀 Node.js for server-side magic.
-
-## 🌟 Connect With Me
-If you want to chat about projects, ideas, or just have a friendly conversation, reach out to me on:
-- [My links](https://neckitwin.github.io)
-
-What if you couldn't wake up? 💫
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?neckitwin=anuraghazra&theme=dark&show_icons=true)
