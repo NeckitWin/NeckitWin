@@ -1,4 +1,4 @@
 # Hello
 ## Im NeckitWin
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neckitwin&theme=radical&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neckitwin&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![MrLeonardosG's WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=mrleonardos&theme=radical&hide_border=true)
