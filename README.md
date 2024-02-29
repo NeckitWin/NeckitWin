@@ -1,4 +1,4 @@
-![Header](https://github.com/NeckitWin/NeckitWin/blob/main/banner.gif?width="200"&height="100")
+![Header](https://github.com/NeckitWin/NeckitWin/blob/main/akame.gif?width="200"&height="100")
 ## 💫 Hello! Im NeckitWin
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neckitwin&theme=radical&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neckitwin&layout=compact&theme=radical)
