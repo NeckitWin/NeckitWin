@@ -2,10 +2,6 @@
 ## 💫 Hello! Im NeckitWin
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neckitwin&theme=radical&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neckitwin&layout=compact&theme=radical)
-### Languages and Tools
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
-![IntelliJIDEA](https://img.shields.io/badge/-IntelliJIDEA-090909?style=for-the-badge&logo=IntelliJIDEA)
 # 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
