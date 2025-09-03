@@ -1,8 +1,10 @@
 ![Header](https://github.com/NeckitWin/NeckitWin/blob/main/ban.gif)
 ## 💫 Hello! Im Nikita
 ### Front End Developer | React & TypeScript
+<div>
 <img height=160 src="https://github-readme-stats.vercel.app/api?username=neckitwin&theme=radical&show_icons=true" />
 <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=neckitwin&layout=compact&theme=radical" />
+</div>
 
 ### 💻 Technologies & Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
